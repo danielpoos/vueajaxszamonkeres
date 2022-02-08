@@ -1,4 +1,4 @@
-# [Név]
+# [Poós Dániel]
 
 ## Hogyan kezdj neki?
 
@@ -39,7 +39,7 @@ Készíts alkalmazást, ami a MuzeumBackend szobraineak (statues) adminisztráci
 
 4. A szerkesztő űrlap segítségével lehesen felvenni új rekordot az adatbázisba. A lista frissüljön. (2p)
 
-5. A Szerkesztés gomb megnyomására töltődjön be az adott rekord az adatbázisból az űrlapba, majd a Mentés gomb megnyomására tárolódjon el a változtatás az adatbázisban és törlődjön az űrlap. A Mégse gomb megnyomására törlődjön az űralp. Figyelj arra, hogy a mégse gomb megnyomása után az új rekord létrehozása működjön. (10p)
+5. A Szerkesztés gomb megnyomására töltődjön be az adott rekord az adatbázisból az űrlapba, majd a Mentés gomb megnyomására tárolódjon el a változtatás az adatbázisban és törlődjön az űrlap. A Mégse gomb megnyomására törlődjön az űrlap. Figyelj arra, hogy a mégse gomb megnyomása után az új rekord létrehozása működjön. (10p)
 
 6. Figyelj oda, hogy izlésesen legyen formázva az oldal. (1p)
 
