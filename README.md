@@ -31,13 +31,13 @@ Add be a repod linkjét. Figyelj oda, hogy az utolsó commit idejét fogjuk néz
 
 Készíts alkalmazást, ami a MuzeumBackend szobraineak (statues) adminisztrációjára alkalmas. Az alábbiak szerint:
 
-1. Legyen egy lista, amiben megjelennek az adatok az adatbázisból letöltve. A listának legyen fejléce és a fejlécben a következő oszlopok: Személy, Magasság, Ár, Műveletek. Az oszlopokban a nekik megfelelő adatok jelenjenek meg(person, height, price), valamint a Művelet oszlopban legyen egy Törlés és Szerkesztés gomb. (2p)
+1. Legyen egy lista, amiben megjelennek az adatok az adatbázisból letöltve. A listának legyen fejléce és a fejlécben a következő oszlopok: Személy, Magasság, Ár, Műveletek. Az oszlopokban, a nekik megfelelő adatok jelenjenek meg(person, height, price), valamint a Művelet oszlopban legyen egy Törlés és Szerkesztés gomb. (2p)
 
 2. A lista alján legyen egy új elem létrehozására alkalmas űrlap Mentés és Mégse gombbal. (2p)
 
 3. A Törlés gomb megnyomására törlődjön az adott rekord az adatbázisból, valamint frissüljön a lista. (2p)
 
-4. A szerkesztő űrlap segítségével lehesen felvenni új rekordot az adatbázisba. A lista frissüljön. (2p)
+4. A szerkesztő űrlap segítségével lehessen felvenni új rekordot az adatbázisba. A lista frissüljön. (2p)
 
 5. A Szerkesztés gomb megnyomására töltődjön be az adott rekord az adatbázisból az űrlapba, majd a Mentés gomb megnyomására tárolódjon el a változtatás az adatbázisban és törlődjön az űrlap. A Mégse gomb megnyomására törlődjön az űrlap. Figyelj arra, hogy a mégse gomb megnyomása után az új rekord létrehozása működjön. (10p)
 
@@ -52,7 +52,7 @@ Készíts alkalmazást, ami a MuzeumBackend szobraineak (statues) adminisztráci
 
 9. Készíts alkalmazást, amivel a két entitás(Paintings, Statues) listázó komponense megjeleníthető. Használd a VueRouter-t ehhez. (+5p)
 
-Figyellj oda, hogy először a sima pontos feladatoknak láss neki, a plusz pontok (pl. +1p) hagyd a végére.
+Figyelj oda, hogy először a sima pontos feladatoknak láss neki, a plusz pontok (pl. +1p) hagyd a végére.
 
 Sima pontok értékelése:
 *  0p -  9p: 1
