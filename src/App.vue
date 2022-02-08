@@ -118,5 +118,33 @@ export default {
 }
 </script>
 <style>
-
+body{
+  background-color: indigo;
+  color: aliceblue;
+  font-size: 14pt;
+  font-family: Georgia, Times, 'Times New Roman', serif;
+}
+table{
+  margin: 2% auto;
+}
+th,td{
+  width: 25%;
+  text-align: center;
+}
+th{
+  text-decoration:underline;
+}
+button{
+  all: unset;
+  border: 1px solid white;
+  color: aquamarine;
+  background-color: green;
+  padding: 2px;
+  margin: 1px;
+}
+button:hover{
+  border: 1px solid black;
+  color: plum;
+  background-color: purple;
+}
 </style>
