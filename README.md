@@ -15,6 +15,7 @@
 ```
   npm run serve
 ```
+
 8. Indíts egy új VSCode vagy terminal ablakot.
 9. Clone-ozd egy másik könyvtárba a backendet: https://github.com/hgabor/MuzeumBackend
 10. Az ott leírtaknak megfelelően indítsd el, hogy elérhető legyen a kliens kódod számára.
